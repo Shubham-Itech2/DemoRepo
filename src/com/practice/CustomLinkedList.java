@@ -38,7 +38,7 @@ public class CustomLinkedList {
         list.insert(5);
         list.insert(6);
         list.print();
-        System.out.println("Hello this is main");
+        System.out.println("Hello this is feature1");
     }
 
 
