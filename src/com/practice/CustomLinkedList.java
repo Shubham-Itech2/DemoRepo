@@ -31,14 +31,14 @@ public class CustomLinkedList {
 
     public static void main(String[] args) {
         CustomLinkedList list = new CustomLinkedList();
+        list.insert(1);
         list.insert(2);
         list.insert(3);
         list.insert(4);
         list.insert(5);
         list.insert(6);
-        list.insert(7);
         list.print();
-        System.out.println("Hello this is feature1");
+        System.out.println("Hello this is main");
     }
 
 
