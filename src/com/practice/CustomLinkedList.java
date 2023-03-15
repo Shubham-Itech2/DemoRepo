@@ -44,9 +44,9 @@ public class CustomLinkedList {
 
     class Node{
         int data;
-        int next;
+        Node next;
 
-        private Node(int data){
+        public Node(int data){
             this.data = data;
         }
 
